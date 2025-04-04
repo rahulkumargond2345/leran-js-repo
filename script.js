@@ -82,3 +82,6 @@ let user = prompt('gass the currect number');
 user = prompt('sorry you gass the wrong numbers')
 }
 console.log('congratulation you win!')
+
+let p = 5;
+console.log(p)
